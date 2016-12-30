@@ -1,0 +1,20 @@
+{
+	"data": {
+		"projects": {
+			"family": [
+				{"description": "wash clothes"},
+				{"description": "buy milk"},
+				{"description": "sweep floor"}
+			],
+
+			"school": [
+				{"description": "do homework"},
+				{"description": "read books"}
+			],
+
+			"exercise": [
+				{"description": "martial arts training"}
+			]
+		}
+	}
+}
