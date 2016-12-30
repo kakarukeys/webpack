@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link>
 
     <span v-for="name in projects.names">
-      | <router-link :to="{ name: 'project', params: { projectName: name }}">{{ name }}</router-link>
+      | <router-link :to="{ name: 'project', params: { projectName: name }}">\{{ name }}</router-link>
     </span>
 
     <br><br>

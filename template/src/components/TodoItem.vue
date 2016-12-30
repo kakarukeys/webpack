@@ -1,6 +1,6 @@
 <template>
   <div>
-    <span>{{ todo.description }}</span>
+    <span>\{{ todo.description }}</span>
     <button @click="onRemove">X</button>
   </div>
 </template>
